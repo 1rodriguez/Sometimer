@@ -1,0 +1,2 @@
+# Sometimer
+An interval timer.
